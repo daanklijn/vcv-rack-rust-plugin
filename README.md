@@ -31,7 +31,7 @@ cargo build --manifest-path=rust/Cargo.toml
 ```
 3. Compile the C++ code
 ```
-make install
+make clean && make install
 ```
 4. Open VCV Rack and test the plugin! 🎛️
 
