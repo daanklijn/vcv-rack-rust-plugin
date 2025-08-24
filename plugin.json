@@ -1,0 +1,23 @@
+{
+  "slug": "RustPlugin",
+  "name": "RustPlugin",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "RustPlugin",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "RustModule",
+      "name": "RustModule",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
