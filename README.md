@@ -25,15 +25,15 @@ Follow the steps below to build and load the plugin in VCV Rack:
 ```
 cd vcv-rack-rust-plugin 
 ```
-4. Compile the Rust code
+3. Compile the Rust code
 ```
 cargo build --manifest-path=rust/Cargo.toml
 ```
-3. Compile the C++ code
+4. Compile the C++ code
 ```
 make clean && make install
 ```
-4. Open VCV Rack and test the plugin! 🎛️
+5. Open VCV Rack and test the plugin! 🎛️
 
 <img width="767" height="669" alt="Screenshot 2025-08-24 at 13 49 44" src="https://github.com/user-attachments/assets/434b3b44-83be-490e-932c-40d8eb4c464a" />
 
